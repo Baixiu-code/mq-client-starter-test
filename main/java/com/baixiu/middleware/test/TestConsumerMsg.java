@@ -5,7 +5,7 @@ import com.baixiu.middleware.mq.model.CommonMessage;
 import org.springframework.stereotype.Component;
 
 /**
- * @author chenfanglin1
+ * @author baixiu
  * @date 创建时间 2023/12/5 2:43 PM
  */
 @Component
